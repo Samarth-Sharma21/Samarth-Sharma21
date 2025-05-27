@@ -4,10 +4,11 @@
 
 <p align="left">
 Hi, I'm Samarth Sharma — a curious mind and passionate developer who thrives on transforming ideas into intelligent, meaningful digital experiences.<br><br>
-- 🔭 Currently working on a real-time AI Therapist Chatbot ([AI_Therapist](https://github.com/Samarth-Sharma21/AI_Therapist)) and improving [ReKindle](https://github.com/Samarth-Sharma21/ReKindle), a memory-sharing app designed for dementia patients.<br>
+- 🔭 Currently working on a real-time AI Therapist Chatbot <a href="https://github.com/Samarth-Sharma21/AI_Therapist" target="_blank">[GitHub Repo]</a> and improving ReKindle <a href="https://github.com/Samarth-Sharma21/ReKindle" target="_blank">[GitHub Repo]</a>, a memory-sharing app designed for dementia patients.<br>
 - 📚 I’m currently exploring <strong>Machine Learning</strong> and <strong>Next.js</strong> to build faster, more intelligent web applications.<br>
 - 🤝🏻 If you're interested in collaborating or contributing, feel free to reach out. Let’s build something meaningful together.
 </p>
+
 
 ###
 
